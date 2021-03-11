@@ -3,6 +3,7 @@
 - Technologies used list -
 
 Frontend: Framer-motion, and React.
+
 Backend: Firebase for storing image file datas and fetching the datas. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
