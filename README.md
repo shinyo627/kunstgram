@@ -6,4 +6,4 @@ Frontend: Framer-motion, and React.
 Backend: Firebase for storing image file datas and fetching the datas. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Link ---> https://6049c60ffb3dbf41706a6f23--kunstgramz.netlify.app/
+Link ---> https://6049d6b1db4a0064640c160c--kunstgramz.netlify.app/
