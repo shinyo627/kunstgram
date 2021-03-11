@@ -1,3 +1,9 @@
 ***Simple Instagram like project to play with framer-motion library***
 
-Technology used: Framer-motion, and React.
+- Technologies used lit -
+
+Frontend: Framer-motion, and React.
+Backend: Firebase for storing image file datas and fetching the datas. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link ---> https://6049c60ffb3dbf41706a6f23--kunstgramz.netlify.app/
